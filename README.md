@@ -3,7 +3,5 @@
 - 🎭Good thriller film with unexpected ending. 
 - ⚓ Sailing
 - 🚀 Table tennis
-- 
 - 🌱 I’m currently learning Java
-
-My dream is to live in house with beautiful seen on valley. 
+- 🏞 My dream is to live in house with beautiful seen on valley. 
