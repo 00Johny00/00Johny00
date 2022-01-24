@@ -2,7 +2,9 @@
 
 - Atm working at : 
 - Java 17, 
-- Cleen Code,
+- Clean Code,
 - Junit 5
 - Spring Boot , Spring,  
 - Angular / HTML / CSS / TypeScrips as much as I need.
+- Rest Api 
+- Postman Testing
