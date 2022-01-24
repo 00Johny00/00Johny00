@@ -5,6 +5,6 @@
 - Clean Code,
 - Junit 5
 - Spring Boot , Spring,  
-- Angular / HTML / CSS / TypeScrips as much as I need.
+- Angular 13 / HTML / CSS / TypeScrips. Bootstrap 5.
 - Rest Api 
 - Postman Testing
